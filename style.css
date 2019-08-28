@@ -1,0 +1,74 @@
+#header{
+    clear:both;
+    padding:25px;
+    background-color:gray;
+    margin-top: 10px;;
+    margin-bottom:10px;
+    text-align:center;
+}
+body{
+    background-color:lightblue;
+    margin: 0 auto;
+    width:960px;
+}
+
+
+#nav{
+    clear:both;
+    padding:25px;
+    background-color:gray;
+    margin-top: 10px;
+    margin-bottom:10px;
+    text-align:center;
+
+
+}
+
+#aside{
+float:right;
+background-color:gray;
+padding:20px;
+width:48%;
+text-align:center;
+box-sizing: border-box;
+height:164px;
+}
+
+#section{
+    background-color:gray;
+    padding:20px;
+    width:495px;
+    text-align:center;
+    box-sizing:border-box;
+}
+
+#headers{
+    background-color:black;
+    padding:5px;
+    color:white;
+box-sizing:border-box;
+
+}
+
+#p{
+    background-color:black;
+    padding:5px;
+    color:white;
+    box-sizing:border-box;
+    margin-top:10px;
+}
+
+
+#article{background-color:white;
+    text-align:center;
+    padding:10px;
+}
+
+#footer{
+    clear:both;
+    padding:25px;
+    background-color:gray;
+    margin-top: 10px;;
+    margin-bottom:10px;
+    text-align:center;
+}
