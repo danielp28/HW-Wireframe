@@ -1,22 +1,25 @@
 #header{
     clear:both;
     padding:25px;
-    background-color:gray;
+    background-color:#ebebeb;
     margin-top: 10px;;
     margin-bottom:10px;
     text-align:center;
 }
 body{
-    background-color:lightblue;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#777;
+    color:#777;
     margin: 0 auto;
     width:960px;
+    font-size:18px;
 }
 
 
 #nav{
     clear:both;
     padding:25px;
-    background-color:gray;
+    background-color:#ebebeb;
     margin-top: 10px;
     margin-bottom:10px;
     text-align:center;
@@ -26,16 +29,16 @@ body{
 
 #aside{
 float:right;
-background-color:gray;
+background-color:#ebebeb;
 padding:20px;
 width:48%;
 text-align:center;
 box-sizing: border-box;
-height:164px;
+height:172px;
 }
 
 #section{
-    background-color:gray;
+    background-color:#ebebeb;
     padding:20px;
     width:495px;
     text-align:center;
@@ -43,23 +46,25 @@ height:164px;
 }
 
 #headers{
-    background-color:black;
+    background-color:#ebebeb;
     padding:5px;
-    color:white;
-box-sizing:border-box;
+    color:black;
+    box-sizing:border-box;
 
 }
 
 #p{
-    background-color:black;
+    background-color:#ebebeb;
     padding:5px;
-    color:white;
+    color:black;
     box-sizing:border-box;
     margin-top:10px;
 }
 
 
-#article{background-color:white;
+#article{
+    color:#ebebeb;
+    background-color:#777;
     text-align:center;
     padding:10px;
 }
@@ -67,7 +72,7 @@ box-sizing:border-box;
 #footer{
     clear:both;
     padding:25px;
-    background-color:gray;
+    background-color:#ebebeb;
     margin-top: 10px;;
     margin-bottom:10px;
     text-align:center;
